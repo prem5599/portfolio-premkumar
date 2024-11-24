@@ -8,16 +8,16 @@ import avixpressproject from "./image/Avixpressproject.png"
 function Works() {
   return (
     <div className='bg'>
-      <div className='fullwork'>  
-    <h2 className='workhead'>MY WORKS</h2>
-  <div className='myworks'>
+      <div className='fullwork' >  
+    <h2 className='workhead' id='myworkssection' data-aos="fade-down">MY WORKS</h2>
+  <div className='myworks' data-aos="fade-right">
     <p className='para1111'>Works</p>
     <p className='para1222'>My Amazing Works</p>
     <p className='para1333'>Most common methods for designing websites that work well on desktop is
     responsive and adaptive design</p>
     </div>
 
-    <div className="container">
+    <div className="container" data-aos="fade-up">
   <div className="project">
     <img src={cookproject} className="image" alt="Cooking Project" />
     <figcaption>
