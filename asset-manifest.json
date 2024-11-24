@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-premkumar/static/css/main.5740c7b2.css",
+    "main.js": "/portfolio-premkumar/static/js/main.b9c22da0.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio-premkumar/static/js/453.1407b060.chunk.js",
+    "static/media/mypicss.png": "/portfolio-premkumar/static/media/mypicss.ae8ab702d7ba99461e0c.png",
+    "static/media/mypic.png": "/portfolio-premkumar/static/media/mypic.a542250fbbfe958f08fd.png",
+    "static/media/cookproject.png": "/portfolio-premkumar/static/media/cookproject.c75c9b54ec47d1680ddc.png",
+    "static/media/beanlabsproject.png": "/portfolio-premkumar/static/media/beanlabsproject.a9437289a1c20534e731.png",
+    "static/media/heroimage.png": "/portfolio-premkumar/static/media/heroimage.ff574a1c503335e4092d.png",
+    "static/media/Avixpressproject.png": "/portfolio-premkumar/static/media/Avixpressproject.fb055ac907024a4bef63.png",
+    "static/media/vookproject.png": "/portfolio-premkumar/static/media/vookproject.4f65ee92e118f03fecf2.png",
+    "static/media/stockmarketproject.png": "/portfolio-premkumar/static/media/stockmarketproject.09bd121fd13d1a4cb609.png",
+    "static/media/element1.png": "/portfolio-premkumar/static/media/element1.26d221166ca87d829833.png",
+    "static/media/res11.png": "/portfolio-premkumar/static/media/res11.113e1f78778838334164.png",
+    "static/media/res111.png": "/portfolio-premkumar/static/media/res111.61b93d57f28181ed5c67.png",
+    "static/media/wordpresslogo.png": "/portfolio-premkumar/static/media/wordpresslogo.bf4bb3e9af193df64168.png",
+    "static/media/res1.png": "/portfolio-premkumar/static/media/res1.463b61aa16dc3c9e75d2.png",
+    "index.html": "/portfolio-premkumar/index.html",
+    "main.5740c7b2.css.map": "/portfolio-premkumar/static/css/main.5740c7b2.css.map",
+    "main.b9c22da0.js.map": "/portfolio-premkumar/static/js/main.b9c22da0.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio-premkumar/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740c7b2.css",
+    "static/js/main.b9c22da0.js"
+  ]
+}
