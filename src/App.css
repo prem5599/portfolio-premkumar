@@ -1091,7 +1091,7 @@ padding-top: 10px;
 
 
   .stars{
-    display: none;
+    display: static;
   }
 
   * {
@@ -1545,8 +1545,8 @@ padding-bottom: 0px;
 }
 .flex11 img{
   
-   width: 58.81px;
-   height: 50px;
+   width: 41.17px;
+   height: 65px;
   padding-top: 30px;
 
 }

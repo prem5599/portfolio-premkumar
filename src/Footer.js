@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <div>
         <div className='footerbg'>
-            <p>Developed with love by  <b>Premkumar</b> © 2024</p>
+            <p>Built to Inspire   <b> © 2024 Premkumar ❤️</b>  Made with React</p>
 
         </div>
     </div>
