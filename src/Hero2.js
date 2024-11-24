@@ -10,7 +10,7 @@ export const Hero2 = () => {
     
   return (
     <div className='bg'>
-        <img src={sideele1} className='sideelement1'></img>
+        {/* <img src={sideele1} className='sideelement1'></img> */}
         <div className='compo'>
             <div className='first1' data-aos="fade-right"
      data-aos-duration="3000"> 

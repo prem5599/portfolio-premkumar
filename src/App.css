@@ -34,22 +34,37 @@
   z-index: 999999; /* Ensure light appears above other elements */
 }
 
-
-
-nav{
+nav {
   position: fixed;
   background-color: #2B2D33;
   top: 0;
   z-index: 1000;
   width: 100%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.842);
+  margin: 0;
+  padding: 0;
 }
-.navbg{
+
+.navbg {
   padding: 10px;
   width: 100%;
   background-color: #2B2D33;
   display: flex;
+  margin: 0;
 }
+
+.navmenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  color: white;
+  padding: 10px;
+  height: 50px;
+  margin: 0;
+}
+
+
 a, 
 a:link,
 a:visited,
@@ -563,7 +578,7 @@ h2{
   bottom: 7rem;    
 }
 
-.aboutme button{
+/* .aboutme button{
   margin-top: 30px;
   color: white;
   font-size: 20px;
@@ -574,10 +589,10 @@ h2{
   padding: 20px;
   background: #F75023;
   
-}
+} */
 
 .aboutme button:hover{
-  background-color: #2B2D33;
+  background-color: #F75023;
 }
 .allabout{
   display: flex;
@@ -1072,16 +1087,84 @@ padding-top: 10px;
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 568px) {
 
 
   .stars{
     display: none;
   }
-  .navyyy1{
-   width: auto;
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
   }
-  nav{
+
+  body, html {
+    overflow-x: hidden;
+  }
+
+  nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navmenu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    height: auto;
+  }
+
+  .navmenu img {
+    width: auto;
+    height: 30px;
+  }
+
+  .img112 {
+    width: auto;
+    height: 30px;
+  }
+
+  .horizontal {
+    display: flex;
+    height: auto;
+    color: white;
+    background: transparent;
+    border: none;
+    padding: 0.5rem;
+  }
+
+  .navlist {
+    display: none;
+  }
+
+  .navlist.active {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #2B2D33;
+    padding: 1rem;
+  }
+
+  .App {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+
+
+ 
+  /* nav{
     position: fixed;
     top: 0;
     padding: 1rem;
@@ -1092,12 +1175,7 @@ padding-top: 10px;
     width: auto;
     height: 70%;
   }
-  .navyyyy{
-    width: 340px;
-  }
-  .navyy{
-    width: 340px;
-  }
+  
   .navmenu{
     width: 40px;
     display: flex;
@@ -1131,7 +1209,7 @@ padding-top: 10px;
   
   .horizontalmenu{
     display: block;
-  }
+  } */
 
   
   .hidden {
@@ -1190,7 +1268,7 @@ padding-top: 10px;
   h2{
     color: rgba(255, 255, 255, 0.034);
     font-weight: 1000;
-    font-size: 5rem;
+    font-size: 3.5rem;
     text-align: center;
     
   }
@@ -1374,7 +1452,7 @@ padding-top: 10px;
   margin-right: auto;
 }
 .star{
-  display: none;
+  display: static;
 }
 /* --------------education-------------- */
 

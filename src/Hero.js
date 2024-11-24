@@ -11,9 +11,14 @@ import mypic from "./image/mypic.png"
 
 const Hero = () => {
 
+
+const handleClick = () => {
+
+  window.open('https://wa.me/8939722775', '_blank');
+};
    
   return (
-    <div>        
+    <div id='herosection'>        
        <div className="relative bg-cover bg-center min-h-[400px] sm:min-h-[500px] md:min-h-[600px] lg:h-screen w-full"
   style={{ backgroundImage: `url(${herobg})` }}>
 
@@ -23,12 +28,13 @@ const Hero = () => {
            <p className='p1'>Hello, I'm</p>
            <p className='p2'>Premkumar</p>
            <p className='p3'>A <span> Creative Developer</span>  From Chennai</p>
-           <p className='p4'>I'm creative developer based in New York, and I'm very
-           passionate and dedicated to my work.</p>
+           <p className='p4'>Front-End Developer based in Chennai, crafting responsive websites and user-friendly digital experiences with clean code and modern technologies.</p>
            <div className='btnsection'> 
-           <button type='download'><a ahref='premkumar_portfolio.pds' download="Premkumar Resume">Hire me </a></button>
+            <button onClick={handleClick}>Hire me </button>
             <div>
-            <a href='#'><img src={linkedin}></img></a> <a href='#'> <img src={github}></img></a>
+            <a href='https://www.linkedin.com/in/prem-kumar-410b301a5/'   target="_blank"
+  rel="noopener noreferrer"><img src={linkedin}></img></a> <a href='https://github.com/prem5599'   target="_blank"
+  rel="noopener noreferrer"> <img src={github}></img></a>
             </div>
             </div>
            
@@ -36,7 +42,7 @@ const Hero = () => {
             
         
 
-            <div className='mypic' data-aos="fade-up" data-aos-delay="1100">
+            <div className='mypic' data-aos="fade-left" data-aos-delay="1100">
               <img src={mypic}/>
               </div>
               </div>
