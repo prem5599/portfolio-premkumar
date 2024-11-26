@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-premkumar/static/css/main.e35a9d9b.css",
+    "main.css": "/portfolio-premkumar/static/css/main.a1c5c64b.css",
     "main.js": "/portfolio-premkumar/static/js/main.0ce7dd34.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-premkumar/static/js/453.1407b060.chunk.js",
     "static/media/mypicss.png": "/portfolio-premkumar/static/media/mypicss.ae8ab702d7ba99461e0c.png",
@@ -17,12 +17,12 @@
     "static/media/wordpresslogo.png": "/portfolio-premkumar/static/media/wordpresslogo.bf4bb3e9af193df64168.png",
     "static/media/res1.png": "/portfolio-premkumar/static/media/res1.463b61aa16dc3c9e75d2.png",
     "index.html": "/portfolio-premkumar/index.html",
-    "main.e35a9d9b.css.map": "/portfolio-premkumar/static/css/main.e35a9d9b.css.map",
+    "main.a1c5c64b.css.map": "/portfolio-premkumar/static/css/main.a1c5c64b.css.map",
     "main.0ce7dd34.js.map": "/portfolio-premkumar/static/js/main.0ce7dd34.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-premkumar/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e35a9d9b.css",
+    "static/css/main.a1c5c64b.css",
     "static/js/main.0ce7dd34.js"
   ]
 }
