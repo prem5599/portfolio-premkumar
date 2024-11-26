@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@jh3y/whirl": "^2.0.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,10 +12,12 @@
     "bootstrap": "^5.3.3",
     "leumas-react-flashlights": "^1.0.4",
     "lucide-react": "^0.460.0",
+    "node-sass": "^9.0.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.1",
     "react-scripts": "^5.0.1",
+    "react-spinners": "^0.14.1",
+    "sass": "^1.81.0",
     "swiper": "^11.1.15",
     "web-vitals": "^2.1.4"
   },
@@ -24,12 +27,15 @@
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "eslintConfig": {
     "extends": [
       "react-app",
-      "react-app/jest"
+      "react-app/jest",
+      "plugin:storybook/recommended"
     ]
   },
   "browserslist": {
@@ -45,8 +51,15 @@
     ]
   },
   "devDependencies": {
+    "@chromatic-com/storybook": "^3.2.2",
+    "@storybook/addon-onboarding": "^8.4.5",
+    "@storybook/preset-create-react-app": "^8.4.5",
+    "@storybook/test": "^8.4.5",
+    "eslint-plugin-storybook": "^0.11.1",
     "gh-pages": "^6.2.0",
     "html-webpack-plugin": "^5.6.3",
-    "tailwindcss": "^3.4.15"
+    "prop-types": "^15.8.1",
+    "tailwindcss": "^3.4.15",
+    "webpack": "^5.96.1"
   }
 }

@@ -3,13 +3,10 @@ import mypicss from "./image/mypicss.png"
 import DownloadButton from './DownloadButton';
 
 export const About = () => {
-  const handleClick = () => {
-
-    window.open('https://wa.me/8939722775', '_blank');
-  };
+  
   return (
-    <div className='bg'>
-        <h2 id='aboutsection' data-aos="fade-down">ABOUT</h2>
+    <div className='bg' id='aboutsection'>
+        <h2  data-aos="fade-down">ABOUT</h2>
 
         <div className='allabout'>
 

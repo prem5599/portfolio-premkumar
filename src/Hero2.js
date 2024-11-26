@@ -35,7 +35,7 @@ export const Hero2 = () => {
                
 
             </div>
-            <div className='first3' data-aos="fade-down"
+            <div className='first3' data-aos="fade-up"
      data-aos-duration="3000">
                 <div className='element2'>
                     <img src={threeimg} className='img1'></img>  </div>

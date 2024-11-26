@@ -5,16 +5,16 @@ import educationicon from "./image/educationlogo.png"
 
 export const Education = () => {
   return (
-    <div className='bg'>
+    <div className='bg' id='educationsection' >
       
         
-  <div className='myeducation' id='educationsection' data-aos="fade-right">
+  <div className='myeducation' data-aos="fade-right">
     <p className='para1111'>Learning is a lifelong journey</p>
     <p className='para1222'>Foundation of knowledge and skill</p>
     <p className='para1333'>My educational qualifications have laid a solid groundwork for my journey.</p>
     </div>
 
-    <div className='headwithcard'>
+   <div className='fullexp'> 
     <h2 data-aos="fade-down" >EXPERIENCE</h2>
     <div className='allinonecard1'>
     <div className='experiencedetails'data-aos="fade-right" data-aos-delay="700">
@@ -32,10 +32,12 @@ export const Education = () => {
         </div>
     </div>
     </div>
+
+  
     <div className='education11'>
     <h2 data-aos="fade-down">EDUCATION</h2>
 
-    
+    <div className='fulledu'>
     <div className='allinonecard1'>
     <div className='experiencedetails' data-aos="fade-left" data-aos-delay="700">
         <p className='headd'>Education</p>
@@ -82,6 +84,8 @@ export const Education = () => {
         </div>
         </div>
     </div>
+    </div>
+
     </div>
     </div>
   )

@@ -15,6 +15,7 @@ import Button from './Button';
 import DownloadButton from './DownloadButton';
 import CursorLight from './CursorLight';
 import Navigation from './Navigation';
+import { ClimbingBoxLoader } from 'react-spinners';
 
 
 
@@ -43,6 +44,7 @@ function App() {
     <div className="App">
       
       <CursorLight />
+    
        
 
 <div className="stars">
