@@ -19,9 +19,10 @@ export const About = () => {
     </div>
       <div className='aboutme' data-aos="fade-down" >
         <p className='para111'>I'm a Developer</p>
-        <p className='para122'>I Can Design And Develope Anything
-        You Want</p>
-        <p className='para133'> I am a passionate Front-End Web Developer with over 2 years of experience in SEO, specializing in creating visually engaging, user-friendly websites that deliver seamless experiences across all devices. My expertise includes HTML, CSS, JavaScript, and React, along with a solid foundation in responsive design, cross-browser compatibility, and SEO best practices. I am dedicated to building dynamic, accessible web solutions that enhance both user engagement and visibility.</p>
+        <p className='para122'>Crafting Websites That Both Users & Search Engines Love</p>
+        <p className='para133'> Hi, I'm Premkumar, a Front-End Developer based in Chennai with a passion for creating seamless web experiences. With a strong foundation in HTML, CSS, and JavaScript, I've successfully transitioned from a non-IT background to tech, driven by my enthusiasm for digital innovation.<br/><br/>
+My 2-year tenure as an SEO Analyst has given me a unique edge in developing search-optimized, user-centric websites. I combine my technical skills in React and Bootstrap with my SEO expertise to build modern web solutions that not only look great but also perform well in search rankings.<br/><br/> 
+Currently expanding my skill set through formal front-end development training, I'm always eager to take on new challenges and create impactful digital solutions. Let's build something amazing together!</p>
     <DownloadButton/>
         </div>
         </div>

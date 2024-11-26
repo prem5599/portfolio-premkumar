@@ -27,14 +27,16 @@ const handleClick = () => {
                  <div className='herotext' data-aos="fade-right" data-aos-delay="500">   
            <p className='p1'>Hello, I'm</p>
            <p className='p2'>Premkumar</p>
-           <p className='p3'>A <span> Creative Developer</span>  From Chennai</p>
-           <p className='p4'>Front-End Developer based in Chennai, crafting responsive websites and user-friendly digital experiences with clean code and modern technologies.</p>
+           <p className='p3'> Crafting <span> Digital Experiences</span> </p>
+           <p className='p4'>Frontend developer specializing in React and modern web technologies. Passionate about 
+creating intuitive interfaces and exceptional user experiences that push the boundaries 
+of what's possible on the web.</p>
            <div className='btnsection'> 
             <button onClick={handleClick}>Hire me </button>
             <div>
             <a href='https://www.linkedin.com/in/prem-kumar-410b301a5/'   target="_blank"
-  rel="noopener noreferrer"><img src={linkedin}></img></a> <a href='https://github.com/prem5599'   target="_blank"
-  rel="noopener noreferrer"> <img src={github}></img></a>
+  rel="noopener noreferrer"><img src={linkedin} className='linkedinlogo'></img></a> <a href='https://github.com/prem5599'   target="_blank"
+  rel="noopener noreferrer"> <img src={github} className='githublogo'></img></a>
             </div>
             </div>
            
