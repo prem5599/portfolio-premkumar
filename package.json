@@ -16,9 +16,7 @@
     "react": "^18.3.1",
     "react-router-dom": "^7.0.1",
     "react-scripts": "^5.0.1",
-    "react-spinners": "^0.14.1",
     "sass": "^1.81.0",
-    "swiper": "^11.1.15",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -26,7 +24,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts test",
+    "test": "react-scripts test", 
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
