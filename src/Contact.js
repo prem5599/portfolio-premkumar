@@ -26,15 +26,15 @@ export const Contact = () => {
   rel="noopener noreferrer">+91 89397 22775 </a></p>  </div> </div>
     </div>
     <div className='contactinputs' data-aos="fade-up" data-aos-delay="200">
-        <form>
+        <form action='https://docs.google.com/forms/d/e/1FAIpQLSdWERfJwJKq1jelgNaOmAYB6PlCfzsCybr2pS82YUT-Kyrv2A/formResponse?usp=pp_url&' method='post'>
        <div className='row1'> 
-         <input placeholder='Your Name'/>
-        <input placeholder='Your Email'/> </div>
+         <input name='entry.574034737' placeholder='Your Name'/>
+        <input name='entry.1231391069' placeholder='Your Email'/> </div>
         <div className='row2'> 
-        <input placeholder='Your Phone Number'/>
-        <input placeholder='Subject'/> </div>
-        <textarea placeholder='Type....'/>  
-        <button>Submit</button>
+        <input name='entry.95060180' placeholder='Your Phone Number'/>
+        <input name='entry.314117180' placeholder='Subject'/> </div>
+        <textarea name='entry.1427667376' placeholder='Type....'/>  
+        <button acc>Submit</button>
         </form>
     </div>      
         </div>
