@@ -11,22 +11,21 @@ import { Education } from './Education';
 import { Contact } from './Contact';
 import { Footer } from './Footer';
 import { useEffect, useState } from 'react';
-import Button from './Button';
-import DownloadButton from './DownloadButton';
 import CursorLight from './CursorLight';
 import Navigation from './Navigation';
+import ShootingStars from './ShootingStars';
 
 
 
-const StarryBackground = () => {
-  return (
-    <div className="stars">
-      {[...Array(50)].map((_, index) => (
-        <div key={index} className="star"></div>
-      ))}
-    </div>
-  );
-};
+// const StarryBackground = () => {
+//   return (
+//     <div className="stars">
+//       {[...Array(50)].map((_, index) => (
+//         <div key={index} className="star"></div>
+//       ))}
+//     </div>
+//   );
+// };
 
 
 function App() {
@@ -43,44 +42,19 @@ function App() {
     <div className="App">
       
       <CursorLight />
+      <ShootingStars starCount={100}/>
     
        
 
-<div className="stars">
-      {[...Array(50)].map((_, index) => (
+{/* <div className="stars">
+
+      {[...Array(30)].map((_, index) => (
         <div key={index} className="star"></div>
       ))}
-      </div>
-
+      </div> */}
     
       <Navigation img={img} />
-      {/* <nav>
-        <div className='navbar'>
-          <div className='navbg'>
-            <div className='navlogo'>
-              <img src={img}></img>
-            </div>
-            <div className='navmenu'>
-              <ul>
-             
-                <a href='#' ><li>Home</li></a>
-                <a href='#aboutsection'> <li>About</li></a>
-                <a href='#myworkssection'><li>My Works</li></a>
-                <a href='#skillssection'><li>My Skills</li></a>
-                <a href='#educationsection'> <li>Education</li></a>
-                <a href='#contactsection'><li> Contact</li></a>
-                <li>  <DownloadButton   pdfURL="../../public/premkumar_portfolio.pdf"    fileName="Premkumar Resume.pdf"  /></li>
-              </ul>
-
-            </div>
-
-          </div>
-
-        </div>
-      </nav> */}
-   
       <Hero></Hero>
-  
       <Hero2></Hero2>
       <About></About>
       <Works></Works>

@@ -34,7 +34,7 @@ export const Contact = () => {
         <input name='entry.95060180' placeholder='Your Phone Number'/>
         <input name='entry.314117180' placeholder='Subject'/> </div>
         <textarea name='entry.1427667376' placeholder='Type....'/>  
-        <button acc>Submit</button>
+        <button acc="true">Submit</button>
         </form>
     </div>      
         </div>

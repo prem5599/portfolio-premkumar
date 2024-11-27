@@ -13,7 +13,7 @@ const DownloadButton = () => {
   };
 
   return (
-    <button onClick={handleDownload1} className='navbutton'>
+    <button onClick={handleDownload1} className='navbutton' >
       Download Resume
     </button>
   );

@@ -16,11 +16,11 @@ const Navigation = ({img}) => {
 
   return (
     <div>
-     <nav className="navyyy1 fixed w-full z-5000 bg-[#2B2D33]   ">
+     <nav className="navyyy1 fixed w-full z-5000 bg-[#2B2D33]">
      <div className="navyyyy px-4 py-3">
         <div className="navyy">
           <div className="navmenu" >
-           <img src={img} alt="Logo" className="img112 flex h-8 w-auto" />
+           <img src={img} alt="Logo" className="img112 flex h-8 w-auto" href="https://prem5599.github.io/portfolio-premkumar/" />
           
 
     <div className="navlist hidden lg:flex items-center space-x-8 ">
@@ -28,7 +28,7 @@ const Navigation = ({img}) => {
               <a
                 key={item.label}
                 href={item.href}
-                className="text-white hover:text-[#F75023] transition-colors text-sm "
+                className="thre text-white hover:text-[#F75023] transition-colors text-sm "
               >
                 {item.label}
               </a>

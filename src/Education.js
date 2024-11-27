@@ -33,7 +33,7 @@ export const Education = () => {
     </div>
     </div>
 
-  
+     
     <div className='education11'>
     <h2 data-aos="fade-down">EDUCATION</h2>
 
@@ -83,6 +83,7 @@ export const Education = () => {
         </div>
         </div>
         </div>
+ 
     </div>
     </div>
 
