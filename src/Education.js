@@ -18,15 +18,15 @@ export const Education = () => {
     <h2 data-aos="fade-down" >EXPERIENCE</h2>
     <div className='allinonecard1'>
     <div className='experiencedetails'data-aos="fade-right" data-aos-delay="700">
-        <p className='headd'>Experience</p>
+        <p className='headd'><b>Experience</b></p>
         
         <div className='flex1'>
         <img src={workicon} />
         <hr/>
         <div className='flex2'>
-        <p className='headname'>Ploxim Web Solutions</p>
-        <p className='jobrole'>SEO Analyst</p>
-        <p className='year'> Apirl 2022 - May 2024</p>
+        <p className='headname'><b>Ploxim Web Solutions</b></p>
+        <p className='jobrole'><b>SEO Analyst</b></p>
+        <p className='year'> <b>Apirl 2022 - May 2024</b></p>
         </div>
         </div>
         </div>
@@ -40,15 +40,15 @@ export const Education = () => {
     <div className='fulledu'>
     <div className='allinonecard1'>
     <div className='experiencedetails' data-aos="fade-left" data-aos-delay="700">
-        <p className='headd'>Education</p>
+        <p className='headd'><b>Education</b></p>
         
         <div className='flex1'>
         <img src={educationicon} />
         <hr/>
         <div className='flex2'>
-        <p className='headname'>VELS University</p>
-        <p className='jobrole'>B.Tech (IT)</p>
-        <p className='year'> 2016 - 2020</p>
+        <p className='headname'> <b>VELS University</b></p>
+        <p className='jobrole'><b>B.Tech (IT)</b></p>
+        <p className='year'><b> 2016 - 2020</b></p>
         </div>
         </div>
     </div>
@@ -62,9 +62,9 @@ export const Education = () => {
         <img src={educationicon} />
         <hr/>
         <div className='flex22'>
-        <p className='headname'>St Michael Higher Secondary School, Gingee</p>
-        <p className='jobrole'>HSC</p>
-        <p className='year'> 2015 - 2016</p>
+        <p className='headname'><b> St Michael Higher Secondary School, Gingee</b></p>
+        <p className='jobrole'><b>HSC</b></p>
+        <p className='year'> <b>2015 - 2016 </b></p>
         </div>
         </div>
         </div>
@@ -77,9 +77,9 @@ export const Education = () => {
         <img src={educationicon} />
         <hr/>
         <div className='flex22'>
-        <p className='headname'>SSV Higher secondary School, senthamangalam</p>
-        <p className='jobrole'>SSLC </p>
-        <p className='year'> 2013 - 2014</p>
+        <p className='headname'><b>SSV Higher secondary School, senthamangalam </b></p>
+        <p className='jobrole'><b>SSLC </b></p>
+        <p className='year'><b> 2013 - 2014 </b></p>
         </div>
         </div>
         </div>
