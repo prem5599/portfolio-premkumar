@@ -894,13 +894,13 @@ justify-content: center;
 .mypiccss{
   height: auto;
   width: 320px;
-  margin-top: -100px;
+  margin-top: -105px;
 
 }
 
 .glow-square {
   margin-left: 200px;
-  margin-top: -90px;
+  margin-top: 20px;
   width: 20rem;
   height: 20rem;
   border: 0px solid #fafafa;
@@ -944,6 +944,8 @@ justify-content: center;
   flex-direction: column;
   justify-content: center;
   row-gap: 40px;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
@@ -1427,6 +1429,7 @@ padding-top: 10px;
  }
 
  .glow-square{
+  margin-top: -90px;
   margin-left: auto;
   margin-right: auto;
  }
@@ -1612,7 +1615,7 @@ padding-top: 10px;
 }
 
 .headd{
-  padding-top: 10px;
+  padding-top: 5px;
   padding-bottom: 15px;
   font-size: 24px;
 }
@@ -1656,14 +1659,14 @@ padding-bottom: 0px;
 .flex11{
   margin-top: 0rem;
   column-gap: 30px;
-  padding-top: 25px;
+  padding-top: 10px;
 
 }
 .flex11 img{
   
    width: 42px;
    height: 65px;
-  padding-top: 30px;
+  margin-top: 25px;
 
 }
 
@@ -1818,10 +1821,11 @@ and (max-device-width: 1024px) {
   }
 
   .glow-container{
-    margin-top: 50px;
+    margin-top: -120px;
     margin-left: auto;
     margin-right: auto;
   }
+ 
 
   .container {
     display: block;
@@ -1894,11 +1898,16 @@ and (max-device-width: 1024px) {
 
   .myeducation {
     margin-top: 0px;
-    width: 0px;
+    width: auto;
     padding-left: -40px;
+ 
+
   }
   .myeducation p{
     width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 
   .headwithcard{
@@ -1953,6 +1962,16 @@ and (max-device-width: 1024px) {
 
   .myworks {
     margin-top: 60px;
+  }
+
+  .contactinputs {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .contactinputs button{
+    margin-left: auto;
+    margin-right: auto;
   }
 
 
