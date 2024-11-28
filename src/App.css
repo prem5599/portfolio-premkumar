@@ -600,14 +600,13 @@ a {
 
 .box-title {
   border-left: 3px solid var(--purple);
-  padding-left: 12px;
 }
 
 .user-follow-info {
   color: hsl(0, 0%, 60%);
 }
 
-.button112 {
+/* .button112 {
   display: block;
   justify-content: center;
   align-items: center;
@@ -625,7 +624,7 @@ a {
     color: white;
     box-shadow: none;
   }
-}
+} */
 .button:hover {
   background: var(--purple);
 }
@@ -638,9 +637,8 @@ a {
   background: var(--pink);
 }
 
-.button112{
-  justify-items: center;
-}
+
+
 
 
 @media (min-width: 320px) {
@@ -931,7 +929,7 @@ justify-content: center;
  margin-left: auto;
  margin-right: auto;
  text-align: center;
- width: 560px;
+ width: 650px;
  display: flex;
  flex-direction: column;
  flex-wrap: wrap;
@@ -1148,7 +1146,24 @@ justify-content: center;
 
 } 
 
-.contactform button, .button112 {
+.button112{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  border: #F75023 2px solid;
+  border-radius: 30px;
+  width: 100px;
+  padding: 10px;
+  background: #F75023;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.contactform button {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: white;
   font-size: 20px;

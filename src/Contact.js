@@ -20,8 +20,7 @@ export const Contact = () => {
         <div className='personaldetails1'> <img src={addressicon}/> <div><p className='headpersonaldetails'>Address</p> <p className='parapersonaldetails'>Chennai</p> </div> </div>
 
         
-        <div className='personaldetails1'> <img src={emailicon}/><div><p className='headpersonaldetails'>Email</p> <p className='parapersonaldetails'> <a href='https://mail.google.com/mail/u/0/?to=prem5599@gmail.com&su=SUBJECT&body=BODY&bcc&fs=1&tf=cm' target="_blank"
-  rel="noopener noreferrer"> prem5599@gmail.com </a></p>  </div> </div>
+        <div className='personaldetails1'> <img src={emailicon}/><div><p className='headpersonaldetails'>Email</p> <p className='parapersonaldetails'> <a href='https://mail.google.com/mail/u/0/?to=prem5599@gmail.com&su=SUBJECT&body=BODY&bcc&fs=1&tf=cm' target="_blank"  rel="noopener noreferrer"> prem5599@gmail.com </a></p>  </div> </div>
         <div className='personaldetails1'><img src={phoneicon}/><div><p className='headpersonaldetails'>Phone</p> <p className='parapersonaldetails'>  <a href='tel:+91 89397 22775' target="_blank"
   rel="noopener noreferrer">+91 89397 22775 </a></p>  </div> </div>
     </div>

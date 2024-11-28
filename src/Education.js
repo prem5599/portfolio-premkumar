@@ -62,7 +62,7 @@ export const Education = () => {
         <img src={educationicon} />
         <hr/>
         <div className='flex22'>
-        <p className='headname'><b> St Michael Higher Secondary School, Gingee</b></p>
+        <p className='headname'><b> St. Michaels  Higher Secondary School, Gingee</b></p>
         <p className='jobrole'><b>HSC</b></p>
         <p className='year'> <b>2015 - 2016 </b></p>
         </div>

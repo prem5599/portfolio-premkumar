@@ -31,7 +31,7 @@ function Works() {
         <p class="user-follow-info">Cook is a food recipes website with advance website cook is helps you</p>
       </div>
       <p class="description">A responsive recipe website designed for seamless exploration of diverse culinary content across all devices.</p>
-      <a href="#" class="button112">Visit Website</a>
+      <a href="https://prem5599.github.io/cook/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
     </div>
     </div>
    <div class="box">
@@ -46,7 +46,7 @@ function Works() {
         <p class="user-follow-info">Vook is a Hallowen based theme speaker selling website</p>
       </div>
       <p class="description">Vook was designed by our UI/UX team and developed by me for the Web D event in just 2 hours.</p>
-      <a href="#" class="button112">Visit Website</a>
+      <a href="https://prem5599.github.io/vook/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
     </div>
     </div>
     
@@ -62,7 +62,7 @@ function Works() {
         <p class="user-follow-info">Stockz is a dashboard for Stockmarket portfolio</p>
       </div>
       <p class="description">Dashboard for stock market portfolio built with Bootstrap, featuring JavaScript functions in the form section.</p>
-      <a href="#" class="button112">Visit Website</a>
+      <a href="https://prem5599.github.io/stockmarketdashboard/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
     </div>
     </div>
 
@@ -78,7 +78,7 @@ function Works() {
         <p class="user-follow-info">It is a Flight cargo company website they deliver globaly</p>
       </div>
       <p class="description">AviXpress delivers global air cargo solutions through innovative logistics and precision service.</p>
-      <a href="#" class="button112">Visit Website</a>
+      <a href="https://zamam-perm-abi-plane-website.netlify.app/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
     </div>
     </div>
   
