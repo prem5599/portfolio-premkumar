@@ -4,6 +4,7 @@ import vookproject from './image/vookproject.png'
 import dashboardproject from './image/stockmarketproject.png'
 import beanlabproject from "./image/beanlabsproject.png"
 import avixpressproject from "./image/Avixpressproject.png"
+import massz from "./image/massz.png"
 
 function Works() {
   
@@ -28,7 +29,7 @@ function Works() {
       <img class="box-image" src={cookproject} alt="Girl Eating Pizza"/>
       <div class="title-flex">
         <h3 class="box-title">Cook</h3>
-        <p class="user-follow-info">Cook is a food recipes website with advance website cook is helps you</p>
+        <p class="user-follow-info">Cook is a food recipes website with advance website cook is helps you.</p>
       </div>
       <p class="description">A responsive recipe website designed for seamless exploration of diverse culinary content across all devices.</p>
       <a href="https://prem5599.github.io/cook/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
@@ -43,7 +44,7 @@ function Works() {
       <img class="box-image" src={vookproject} alt="Girl Eating Pizza"/>
       <div class="title-flex">
         <h3 class="box-title">Vook</h3>
-        <p class="user-follow-info">Vook is a Hallowen based theme speaker selling website</p>
+        <p class="user-follow-info">Vook is a Hallowen based theme speaker selling website.</p>
       </div>
       <p class="description">Vook was designed by our UI/UX team and developed by me for the Web D event in just 2 hours.</p>
       <a href="https://prem5599.github.io/vook/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
@@ -59,7 +60,7 @@ function Works() {
       <img class="box-image" src={dashboardproject} alt="Girl Eating Pizza"/>
       <div class="title-flex">
         <h3 class="box-title">Stockz</h3>
-        <p class="user-follow-info">Stockz is a dashboard for Stockmarket portfolio</p>
+        <p class="user-follow-info">Stockz is a dashboard for Stockmarket portfolio.</p>
       </div>
       <p class="description">Dashboard for stock market portfolio built with Bootstrap, featuring JavaScript functions in the form section.</p>
       <a href="https://prem5599.github.io/stockmarketdashboard/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
@@ -72,13 +73,13 @@ function Works() {
       <span class="slide-vertical"></span>
     </span>
     <div class="box-top">
-      <img class="box-image" src={avixpressproject} alt="Girl Eating Pizza"/>
+      <img class="box-image" src={massz} alt="Shopping_website"/>
       <div class="title-flex">
-        <h3 class="box-title">AviXpress</h3>
-        <p class="user-follow-info">It is a Flight cargo company website they deliver globaly</p>
+        <h3 class="box-title">Massz</h3>
+        <p class="user-follow-info">Massz showcases elegant watches with cart functionality.</p>
       </div>
-      <p class="description">AviXpress delivers global air cargo solutions through innovative logistics and precision service.</p>
-      <a href="https://zamam-perm-abi-plane-website.netlify.app/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
+      <p class="description"> A dynamic e-commerce platform featuring a product catalog, shopping cart, and user authentication.</p>
+      <a href="https://watch-shopping-react-prem.netlify.app/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
     </div>
     </div>
   

@@ -110,7 +110,7 @@ a:hover{
   border-radius: 30px;
   background-color: #2B2D33;
   cursor: pointer;
-
+  
 }
 
 .navbutton:hover{
@@ -170,7 +170,7 @@ animation :prem 8s ease-in-out infinite;
 
 .p2{
   font-family: "Jost", sans-serif;
-  font-size: 85px;
+  font-size: 70px;
   font-weight: 500;
 }
 
@@ -234,6 +234,7 @@ width: 30px;
   position: absolute;
   top: 0;
   left: 0;
+
   width: 100%;
   height: 150vh;
   transform: rotate(-110deg);
@@ -241,7 +242,7 @@ width: 30px;
 }
 
 .star {
-  --star-color: #ffffff1e;
+  --star-color: #ffffff3a;
   position: absolute;
   top: var(--top-offset);
   left: 0;
@@ -1127,7 +1128,7 @@ justify-content: center;
   border-radius: 10px;
   width: 324px;
   height: 58px;
-  font-size: 25px;
+  font-size: 18px;
   padding-left: 5px;
   color: #B9B5C9;
   margin-left: 30px;
@@ -1140,7 +1141,7 @@ justify-content: center;
   background-color: #3B3D44;
   border: 1px solid #B9B5C9;
   border-radius: 10px;
-  font-size: 25px;
+  font-size: 18px;
   padding-left: 5px;
   padding-top: 5px;
   color: #B9B5C9;
@@ -1162,8 +1163,11 @@ justify-content: center;
   margin-right: auto;
   justify-content: center;
   text-align: center;
+  margin-top: 10px;
 
 }
+
+
 
 .contactform button {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -1175,7 +1179,8 @@ justify-content: center;
   width: 200px;
   padding: 10px;
   background: #F75023;
-  margin-left: 30px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 .contactform button:hover, .button112:hover{
@@ -1229,6 +1234,83 @@ padding-top: 10px;
 }
 
 
+.experience{
+  margin-top: -150px;
+}
+
+ul.timeline-list {
+  position: relative;
+  margin: 0;
+  padding: 0;
+ }
+ 
+ ul.timeline-list:before {
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: 100%;
+  background-color: #ff3636;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+ }
+ 
+ ul.timeline-list li {
+  position: relative;
+  clear: both;
+  display: table;
+  width: 100%;
+ }
+ 
+ .timeline_content {
+  border: 1px solid #ff3636;
+  background-color: #3B3D44;
+  color: white;
+  box-shadow: rgba(255, 0, 0, 0.2) 0px 5px 55px, rgba(255, 0, 0, 0.1) 0px -12px 30px, rgba(0, 0, 0, 0.1) 0px 4px 6px, rgba(247, 0, 0, 0.089) 0px 12px 13px, rgba(255, 0, 0, 0) 0px -3px 5px;
+  width: 45%;
+  padding: 50px;
+ }
+ 
+ 
+ ul.timeline-list li .timeline_content {
+  float: left;
+  text-align: right;
+ }
+
+ ul.timeline-list li:nth-child(2n) .timeline_content {
+  float: right;
+  text-align: left;
+ }
+ 
+ ul.timeline-list li:before {
+  position: absolute;
+  content: "";
+  width: 25px;
+  height: 25px;
+  background-color: #ff3636;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+ }
+ 
+  
+ ul.timeline-list li:nth-child(2n):after {
+  left: auto;
+  right: 0;
+ }
+ 
+ .timeline_content h4 {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 10px 0;
+ }
+ 
+ .timeline_content span {
+  font-size: 18px;
+  font-weight: 500;
+  color: #ff3636;
+ }
 
 
 
@@ -1710,6 +1792,10 @@ padding-bottom: 0px;
   margin-top: 20px;
 }
 
+.timeline_content {
+  width: 45%;
+  padding: 10px;
+ }
 
 }
 
@@ -1976,4 +2062,8 @@ and (max-device-width: 1024px) {
 
 
 } 
+
+
+
+
 

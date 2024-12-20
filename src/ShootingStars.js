@@ -10,7 +10,7 @@ const ShootingStars = () => {
             style={{
               '--star-tail-length': `${6 + Math.random() * 3}em`,
               '--top-offset': `${Math.random() * 800}vh`,
-              '--fall-duration': `${Math.random() * (80 - 10) + 15}s`,
+              '--fall-duration': `${Math.random() * (90 - 10) + 15}s`,
               '--fall-delay': `${Math.random() * (15 - 0)}s`
             }}
           />
