@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-premkumar/static/css/main.1ba75cc9.css",
-    "main.js": "/portfolio-premkumar/static/js/main.95d8ab94.js",
+    "main.css": "/portfolio-premkumar/static/css/main.dba950f6.css",
+    "main.js": "/portfolio-premkumar/static/js/main.af1b8b09.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-premkumar/static/js/453.1407b060.chunk.js",
     "static/media/mypicss.png": "/portfolio-premkumar/static/media/mypicss.ae8ab702d7ba99461e0c.png",
     "static/media/mypic.png": "/portfolio-premkumar/static/media/mypic.a542250fbbfe958f08fd.png",
     "static/media/Avixpressproject.png": "/portfolio-premkumar/static/media/Avixpressproject.bc23a118690b1ab19c7a.png",
+    "static/media/massz.png": "/portfolio-premkumar/static/media/massz.aff98467fa4c41af5df1.png",
     "static/media/beanlabsproject.png": "/portfolio-premkumar/static/media/beanlabsproject.a9437289a1c20534e731.png",
     "static/media/stockmarketproject.png": "/portfolio-premkumar/static/media/stockmarketproject.c0c6bff4852cb86e9150.png",
     "static/media/heroimage.png": "/portfolio-premkumar/static/media/heroimage.ff574a1c503335e4092d.png",
@@ -17,12 +18,12 @@
     "static/media/wordpresslogo.png": "/portfolio-premkumar/static/media/wordpresslogo.bf4bb3e9af193df64168.png",
     "static/media/res1.png": "/portfolio-premkumar/static/media/res1.463b61aa16dc3c9e75d2.png",
     "index.html": "/portfolio-premkumar/index.html",
-    "main.1ba75cc9.css.map": "/portfolio-premkumar/static/css/main.1ba75cc9.css.map",
-    "main.95d8ab94.js.map": "/portfolio-premkumar/static/js/main.95d8ab94.js.map",
+    "main.dba950f6.css.map": "/portfolio-premkumar/static/css/main.dba950f6.css.map",
+    "main.af1b8b09.js.map": "/portfolio-premkumar/static/js/main.af1b8b09.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-premkumar/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ba75cc9.css",
-    "static/js/main.95d8ab94.js"
+    "static/css/main.dba950f6.css",
+    "static/js/main.af1b8b09.js"
   ]
 }
