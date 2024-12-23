@@ -131,9 +131,9 @@ a:hover{
 }
 .mypic img{
   margin-top: 250px;
-  margin-left: 100px;
+  margin-left: 0px;
   width: 470px;
-  height: 370px;
+  height: auto;
   background-position: 50%;
 border: 3px solid rgba(255, 255, 255, 0.103);
 border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
@@ -1804,7 +1804,7 @@ padding-bottom: 0px;
 
 @media only screen 
 and (min-device-width: 768px) 
-and (max-device-width: 1024px) {
+and (max-device-width: 1027px) {
 
   * {
     margin: 0;
@@ -1879,7 +1879,7 @@ and (max-device-width: 1024px) {
     margin-right: auto;
     color: white;
     padding: 15vh 0vh 5vh 0vh;
-    padding-left: 0px;
+    padding-left: 100px;
     row-gap: 35px
   }
    
