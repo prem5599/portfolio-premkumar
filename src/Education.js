@@ -37,39 +37,7 @@ export const Education = () => {
     <div className='education11'>
     <h2 data-aos="fade-down">EDUCATION</h2>
 
-    <section class="experience pt-100 pb-100" id="experience">
- <div class="container">
-   <div class="row">
-     <div class="col-xl-12">
-       <ul class="timeline-list" data-aos="fade-down">
-         <li>
-           <div class="timeline_content " data-aos="fade-right">
-             <span>2016 - 2020</span>
-             <h4>B.Tech IT</h4>
-             <p>Vels Institute of Science, Technology & Advanced Studies (VISTAS)</p>
-           </div>
-         </li>
-         <li>
-           <div class="timeline_content" data-aos="fade-left">
-             <span>2014 - 2016</span>
-             <h4>HSC</h4>
-             <p>St. Michaels Higher Secondary School, Gingee</p>
-           </div>
-         </li>
-         <li>
-           <div class="timeline_content" data-aos="fade-right">
-             <span>2013-2014</span>
-             <h4>SSLC</h4>
-             <p>SSV Higher secondary School, senthamangalam</p>
-           </div>
-         </li>
-       </ul>
-     </div>
-   </div>
- </div>
-</section>
-
-    {/* <div className='fulledu'>
+    <div className='fulledu'>
     <div className='allinonecard1'>
     <div className='experiencedetails' data-aos="fade-left" data-aos-delay="700">
         <p className='headd'><b>Education</b></p>
@@ -94,7 +62,7 @@ export const Education = () => {
         <img src={educationicon} />
         <hr/>
         <div className='flex22'>
-        <p className='headname'><b> St. Michaels  Higher Secondary School, Gingee</b></p>
+        <p className='headname'><b> St Michael Higher Secondary School, Gingee</b></p>
         <p className='jobrole'><b>HSC</b></p>
         <p className='year'> <b>2015 - 2016 </b></p>
         </div>
@@ -117,7 +85,7 @@ export const Education = () => {
         </div>
  
     </div>
-    </div> */}
+    </div>
 
     </div>
     </div>
