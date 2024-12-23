@@ -122,7 +122,7 @@ a:hover{
 .herotext{
   color: white;
   padding: 17vh 0vh;
-  padding-left: 30vh;
+  /* padding-left: 30vh; */
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -160,6 +160,7 @@ animation :prem 8s ease-in-out infinite;
 .totalhero{
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 
 }
 .p1{
@@ -1802,7 +1803,7 @@ padding-bottom: 0px;
 
 
 @media only screen 
-and (min-device-width: 570px) 
+and (min-device-width: 768px) 
 and (max-device-width: 1024px) {
 
   * {
@@ -1877,20 +1878,26 @@ and (max-device-width: 1024px) {
     margin-left: auto;
     margin-right: auto;
     color: white;
-    padding: 10vh 0vh 0vh 0vh;
+    padding: 15vh 0vh 5vh 0vh;
     padding-left: 0px;
     row-gap: 35px
   }
+   
 
   .mypic img{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 185px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 0px;
    
    
     width: 470px;
     height: auto;
  
+  }
+
+  .totalhero{
+    margin: 0px;
+    padding: 0;
   }
 
   .aboutme {
