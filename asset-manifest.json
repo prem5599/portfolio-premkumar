@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-premkumar/static/css/main.dba950f6.css",
-    "main.js": "/portfolio-premkumar/static/js/main.af1b8b09.js",
+    "main.js": "/portfolio-premkumar/static/js/main.231e182e.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-premkumar/static/js/453.1407b060.chunk.js",
     "static/media/mypicss.png": "/portfolio-premkumar/static/media/mypicss.ae8ab702d7ba99461e0c.png",
     "static/media/mypic.png": "/portfolio-premkumar/static/media/mypic.a542250fbbfe958f08fd.png",
@@ -19,11 +19,11 @@
     "static/media/res1.png": "/portfolio-premkumar/static/media/res1.463b61aa16dc3c9e75d2.png",
     "index.html": "/portfolio-premkumar/index.html",
     "main.dba950f6.css.map": "/portfolio-premkumar/static/css/main.dba950f6.css.map",
-    "main.af1b8b09.js.map": "/portfolio-premkumar/static/js/main.af1b8b09.js.map",
+    "main.231e182e.js.map": "/portfolio-premkumar/static/js/main.231e182e.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-premkumar/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dba950f6.css",
-    "static/js/main.af1b8b09.js"
+    "static/js/main.231e182e.js"
   ]
 }
