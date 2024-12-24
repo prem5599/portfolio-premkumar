@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-premkumar/static/css/main.383a7473.css",
+    "main.css": "/portfolio-premkumar/static/css/main.8436a7b1.css",
     "main.js": "/portfolio-premkumar/static/js/main.231e182e.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-premkumar/static/js/453.1407b060.chunk.js",
     "static/media/mypicss.png": "/portfolio-premkumar/static/media/mypicss.ae8ab702d7ba99461e0c.png",
@@ -18,12 +18,12 @@
     "static/media/wordpresslogo.png": "/portfolio-premkumar/static/media/wordpresslogo.bf4bb3e9af193df64168.png",
     "static/media/res1.png": "/portfolio-premkumar/static/media/res1.463b61aa16dc3c9e75d2.png",
     "index.html": "/portfolio-premkumar/index.html",
-    "main.383a7473.css.map": "/portfolio-premkumar/static/css/main.383a7473.css.map",
+    "main.8436a7b1.css.map": "/portfolio-premkumar/static/css/main.8436a7b1.css.map",
     "main.231e182e.js.map": "/portfolio-premkumar/static/js/main.231e182e.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-premkumar/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.383a7473.css",
+    "static/css/main.8436a7b1.css",
     "static/js/main.231e182e.js"
   ]
 }
