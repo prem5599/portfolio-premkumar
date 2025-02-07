@@ -5,6 +5,8 @@ import dashboardproject from './image/stockmarketproject.png'
 import beanlabproject from "./image/beanlabsproject.png"
 import avixpressproject from "./image/Avixpressproject.png"
 import massz from "./image/massz.png"
+import restapi from "./image/Countries-Explorer-project.png"
+import restapireact from "./image/Rest-countries-API-react.png"
 
 function Works() {
   
@@ -79,6 +81,37 @@ function Works() {
         <p class="user-follow-info">Massz showcases elegant watches with cart functionality.</p>
       </div>
       <p class="description"> A dynamic e-commerce platform featuring a product catalog, shopping cart, and user authentication.</p>
+      <a href="https://watch-shopping-react-prem.netlify.app/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
+    </div>
+    </div>
+
+   <div class="box">
+    <span class="border-slide"></span>
+    <span class="slide-overlay">
+      <span class="slide-vertical"></span>
+    </span>
+    <div class="box-top">
+      <img class="box-image" src={restapi} alt="Shopping_website"/>
+      <div class="title-flex">
+        <h3 class="box-title">REST Countries API</h3>
+        <p class="user-follow-info"> A website to explore and save favorite countries worldwide.</p>
+      </div>
+      <p class="description"> A responsive country explorer website with modern gradient UI, animations, and interactive filtering features.</p>
+      <a href="https://prem5599.github.io/REST-Countries/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
+    </div>
+    </div>
+   <div class="box">
+    <span class="border-slide"></span>
+    <span class="slide-overlay">
+      <span class="slide-vertical"></span>
+    </span>
+    <div class="box-top">
+      <img class="box-image" src={restapireact} alt="Shopping_website"/>
+      <div class="title-flex">
+        <h3 class="box-title">REST API (React)</h3>
+        <p class="user-follow-info">GlobalView Seamless Country Navigation in Modern Design</p>
+      </div>
+      <p class="description">Modern React Application, Seamless Country Navigation, Beautiful UI, and Smooth State Management</p>
       <a href="https://watch-shopping-react-prem.netlify.app/" class="button112" target="_blank"  rel="noopener noreferrer">Visit Website</a>
     </div>
     </div>

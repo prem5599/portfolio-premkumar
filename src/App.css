@@ -456,7 +456,7 @@ a {
 
 .wrap {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: ; */
   align-items: stretch;
   width: 100%;
   gap: 24px;
