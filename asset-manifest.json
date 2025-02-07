@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio-premkumar/static/css/main.8436a7b1.css",
-    "main.js": "/portfolio-premkumar/static/js/main.231e182e.js",
+    "main.css": "/portfolio-premkumar/static/css/main.2a360f0c.css",
+    "main.js": "/portfolio-premkumar/static/js/main.b1fae7eb.js",
     "static/js/453.1407b060.chunk.js": "/portfolio-premkumar/static/js/453.1407b060.chunk.js",
     "static/media/mypicss.png": "/portfolio-premkumar/static/media/mypicss.ae8ab702d7ba99461e0c.png",
     "static/media/mypic.png": "/portfolio-premkumar/static/media/mypic.a542250fbbfe958f08fd.png",
     "static/media/Avixpressproject.png": "/portfolio-premkumar/static/media/Avixpressproject.bc23a118690b1ab19c7a.png",
+    "static/media/Countries-Explorer-project.png": "/portfolio-premkumar/static/media/Countries-Explorer-project.f176588e70b46a210bc8.png",
+    "static/media/Rest-countries-API-react.png": "/portfolio-premkumar/static/media/Rest-countries-API-react.1b0b20fccee5127123f1.png",
     "static/media/massz.png": "/portfolio-premkumar/static/media/massz.aff98467fa4c41af5df1.png",
     "static/media/beanlabsproject.png": "/portfolio-premkumar/static/media/beanlabsproject.a9437289a1c20534e731.png",
     "static/media/stockmarketproject.png": "/portfolio-premkumar/static/media/stockmarketproject.c0c6bff4852cb86e9150.png",
@@ -18,12 +20,12 @@
     "static/media/wordpresslogo.png": "/portfolio-premkumar/static/media/wordpresslogo.bf4bb3e9af193df64168.png",
     "static/media/res1.png": "/portfolio-premkumar/static/media/res1.463b61aa16dc3c9e75d2.png",
     "index.html": "/portfolio-premkumar/index.html",
-    "main.8436a7b1.css.map": "/portfolio-premkumar/static/css/main.8436a7b1.css.map",
-    "main.231e182e.js.map": "/portfolio-premkumar/static/js/main.231e182e.js.map",
+    "main.2a360f0c.css.map": "/portfolio-premkumar/static/css/main.2a360f0c.css.map",
+    "main.b1fae7eb.js.map": "/portfolio-premkumar/static/js/main.b1fae7eb.js.map",
     "453.1407b060.chunk.js.map": "/portfolio-premkumar/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8436a7b1.css",
-    "static/js/main.231e182e.js"
+    "static/css/main.2a360f0c.css",
+    "static/js/main.b1fae7eb.js"
   ]
 }
